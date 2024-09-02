@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**incatswetrust/incatswetrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm full stack developer with extensive experience in creating web applications and unique expertise in developing encryption systems.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![roadmap.sh](https://roadmap.sh/card/wide/66d33913553501e3c35844f1?variant=dark)](https://roadmap.sh)
+
+## 🔧 Technologies & Tools
+**Back end**:
+* C# (ASP.NET, Razor Pages)
+* Python (Django)
+* Node.JS
+
+**Front end**:
+* Typescript (love it more than Javascript)
+* React
+* Svelte/Svelte KIT
+* Bootstrap, Tailwind CSS
+---
+* Avalonia UI (AXAML)
+* WPF (XAML)
+* Guna2UI (like WinForms but better)
+---
+* SWIFT 🤏
+
+**Databases**:
+* MongoBD
+* Microsoft SQL
+* Dapper
+* MySQL
+* SQLite
+* PostrgeSql
+* Entity Framework, DJango ORM, Sequelize, Mongoose, LINQ to SQL
+
+## 📫 How to reach me
+
+- LinkedIn: [Oleksii Chaikovskyi](https://www.linkedin.com/in/olexy-chaikovsky-14b508196/)
+- X: [@incatswetrust_](https://x.com/incatswetrust_)
+
+## ⚡ Fun fact
+
+I love hiking and photography!
