@@ -36,7 +36,6 @@ I'm full stack developer with extensive experience in creating web applications 
 
 - LinkedIn: [Oleksii Chaikovskyi](https://www.linkedin.com/in/olexy-chaikovsky-14b508196/)
 - X: [@incatswetrust_](https://x.com/incatswetrust_)
-- daily.dev: [@incatswetrust](https://app.daily.dev/incatswetrust)
 
 ## ⚡ Fun fact
 
