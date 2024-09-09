@@ -3,7 +3,6 @@
 I'm full stack developer with extensive experience in creating web applications and unique expertise in developing encryption systems.
 
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66d33913553501e3c35844f1?variant=dark)](https://roadmap.sh)
 
 ## 🔧 Technologies & Tools
 **Back end**:
