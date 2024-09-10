@@ -6,7 +6,7 @@ I'm full stack developer with extensive experience in creating web applications 
 
 ## 🔧 Technologies & Tools
 **Back end**:
-* C# (ASP.NET, Razor Pages)
+* C# (ASP.NET, Blazor, Razor Pages)
 * Python (Django)
 * Node.JS
 
@@ -35,7 +35,3 @@ I'm full stack developer with extensive experience in creating web applications 
 
 - LinkedIn: [Oleksii Chaikovskyi](https://www.linkedin.com/in/olexy-chaikovsky-14b508196/)
 - X: [@incatswetrust_](https://x.com/incatswetrust_)
-
-## ⚡ Fun fact
-
-I love hiking and photography!
