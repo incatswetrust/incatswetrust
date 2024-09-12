@@ -8,7 +8,7 @@ I'm full stack developer with extensive experience in creating web applications 
 **Back end**:
 * C# (ASP.NET, Blazor, Razor Pages)
 * Python (Django)
-* Node.JS
+* Node.JS (Express)
 
 **Front end**:
 * Typescript (love it more than Javascript)
