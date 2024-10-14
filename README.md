@@ -6,30 +6,36 @@ I'm full stack developer with extensive experience in creating web applications 
 
 ## 🔧 Technologies & Tools
 **Back end**:
-* C# (ASP.NET, Blazor, Razor Pages)
-* Python (Django)
-* Node.JS (Express)
+* C# (.NET): ASP.NET, Blazor, Razor Pages
+* Python: Django
+* Node.js: Express
 
 **Front end**:
-* Typescript (love it more than Javascript)
-* React
-* Svelte/Svelte KIT
+* Typescript
+* Svelte/SvelteKit
 * Bootstrap, Tailwind CSS
----
+
+
+**Windows UI Frameworks**:
 * Avalonia UI (AXAML)
 * WPF (XAML)
-* Guna2UI (like WinForms but better)
----
+* Guna2UI (WinForms alternative)
+
+**MacOs UI Frameworks**:
 * SWIFT 🤏
 
 **Databases**:
-* MongoBD
+* MongoDB
 * Microsoft SQL
 * Dapper
 * MySQL
 * SQLite
-* PostrgeSql
-* Entity Framework, Django ORM, Sequelize, Mongoose, LINQ to SQL
+* PostgreSQL
+* ORM: Entity Framework, Django ORM, Sequelize, Mongoose, LINQ to SQL
+
+**DevOps and Infrastructure Tools**:
+* Docker, Docker Compose
+* CI/CD: GitHub Actions, Vercel, Heroku
 
 ## 📫 How to reach me
 
