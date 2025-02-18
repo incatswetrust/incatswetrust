@@ -27,7 +27,7 @@ I'm full stack developer with extensive experience in creating web applications 
 * MySQL
 * SQLite
 * PostgreSQL
-ORM: Entity Framework, Django ORM, Sequelize, Mongoose, LINQ to SQL
+* ORM: Entity Framework, Django ORM, Sequelize, Mongoose, LINQ to SQL
 
 ### DevOps and Infrastructure Tools:
 * Docker, Docker Compose
