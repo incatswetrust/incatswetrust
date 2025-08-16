@@ -36,4 +36,4 @@ I'm full stack developer with extensive experience in creating web applications 
 ## 📫 How to reach me
 * LinkedIn: [Oleksii Chaikovskyi](https://www.linkedin.com/in/oleksii-chaikovskyi-14b508196) 
 * X: @incatswetrust_
-* TG: @lunaspaw
+* TG: @Itrustincats
