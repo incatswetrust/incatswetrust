@@ -2,7 +2,7 @@ Hi 👋
 I’m a full-stack developer with a strong backend and infrastructure focus, building production-ready systems:
 web applications, APIs, automation tools, secure network architectures, integrations, and internal platforms.
 
-I work across the full lifecycle — from system design and software architecture to implementation, infrastructure deployment, security hardening, and long-term maintenance.
+I work across the full lifecycle - from system design and software architecture to implementation, infrastructure deployment, security hardening, and long-term maintenance.
 
 ---
 
